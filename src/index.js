@@ -16,7 +16,3 @@ const init = () => {
 }
 
 document.addEventListener('DOMContentLoaded', init);
-
-// Add event listeners to capture form data
-// Fetch data based on what the user types into that form
-// Display that data on the page
